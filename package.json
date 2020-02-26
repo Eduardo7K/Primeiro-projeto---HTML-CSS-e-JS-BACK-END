@@ -1,0 +1,22 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Eduardo Kuchenbecker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cors": "^2.8.5",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "nodemon": "1.14.11"
+  }
+}

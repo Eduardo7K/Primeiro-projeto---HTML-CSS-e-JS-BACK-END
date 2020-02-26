@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1582031238815" clover="3.2.0">
+  <project timestamp="1582031238815" name="All files">
+    <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="4" elements="20" coveredelements="14" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="bancoDeDados.js" path="C:\Users\eduar\Desktop\ProjetoApi\src\bancoDeDados.js">
+      <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="64" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="68" count="0" type="stmt"/>
+      <line num="72" count="3" type="stmt"/>
+      <line num="73" count="3" type="stmt"/>
+      <line num="86" count="9" type="stmt"/>
+      <line num="87" count="9" type="stmt"/>
+      <line num="88" count="3" type="stmt"/>
+      <line num="89" count="3" type="stmt"/>
+      <line num="92" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
