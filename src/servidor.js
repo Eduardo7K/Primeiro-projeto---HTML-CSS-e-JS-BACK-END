@@ -41,9 +41,6 @@ app.post("/api/users/login", async (req, res, next) => {
 });
 
 app.post("/api/users/verificar", (req, res, next) => {
-  //console.log("teste");
-  //console.log(req.body);
-  //console.log(token);
   res.json(token === req.body.token);
 });
 
