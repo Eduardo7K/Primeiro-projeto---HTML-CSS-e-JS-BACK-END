@@ -5,10 +5,11 @@ Back-end do projeto criado para consolidar o aprendizado básico sobre HTML, CSS
 
 ### Para esse projeto funcionar, é necesário criar um banco de dados, utilizei o PostgreSQL. 
 
-Configurar os dados do banco de dados na aba index.js.
+* Configurar os dados do banco de dados na aba index.js.
 
-Criar os seguintes campos no banco de dados:
+* Criar os seguintes campos no banco de dados:
 
+```
 id SERIAL PRIMARY KEY
 
 firtname varchar
@@ -38,3 +39,4 @@ year integer
 email varchar
 
 password varchar
+```
